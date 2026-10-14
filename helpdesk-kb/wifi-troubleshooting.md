@@ -26,3 +26,12 @@ No issues currently documented.
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
 
+<<<<<<< HEAD
+=======
+
+
+SLOW WIRELESS CONNECTION
+
+JUST USE ETHERNET!
+
+>>>>>>> ca82bd7 (added slow wireless troubleshooting section)
