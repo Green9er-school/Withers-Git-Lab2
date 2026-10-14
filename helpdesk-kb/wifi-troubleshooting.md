@@ -1,5 +1,4 @@
-# Wi‑Fi Troubleshooting Guide another change in main this time
-
+# Wi‑Fi Troubleshooting Guide
 ## Current Revision
 
 Document Owner: Help Desk Team
