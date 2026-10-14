@@ -2,7 +2,12 @@
 
 ## Planned Updates
 
-- Add VPN troubleshooting article
-- Add MFA documentation
-- Add laptop imaging guide
-- Add Teams support guide
+* Add VPN troubleshooting article
+* Add MFA documentation
+* Add laptop imaging guide
+* Add Teams support guide
+
+
+
+these are changes that exist
+
